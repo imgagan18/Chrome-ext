@@ -1,5 +1,11 @@
  {
    "name":"my Chrome Extension",
    "version":"1.0.0",
-   "description":"best Extension out there"
+   "description":"best Extension out there",
+   "manifest_version":3,
+   "author":"Gagan Shenvi",
+   "action":{
+       "default_popup":"index.html",
+       "default_title":"My chrome Extension"
+   }
  }

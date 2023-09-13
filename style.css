@@ -1,4 +1,10 @@
 body{
     min-width: 300px;
-    background-color: chocolate;
+    background-color: rgb(235, 228, 228);
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  border-radius: 8px;
+  padding: 20px;
+  margin: 20px;
+  color: black;
+  font-size: 20px;
 }
